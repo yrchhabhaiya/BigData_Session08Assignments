@@ -1,0 +1,4 @@
+1)Find out the top 5 most visited destinations. solution: script1.pig
+2)Which month has seen the most number of cancellations due to bad weather? solution: script2.pig
+3)Top ten origins with the highest AVG departure delay. solution: script3.pig
+4)Which route (origin & destination) has seen the maximum diversion? solution: script4.pig
