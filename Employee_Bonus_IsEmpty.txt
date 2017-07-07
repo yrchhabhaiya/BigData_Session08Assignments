@@ -1,0 +1,6 @@
+1,Robin,22,25000,sales 
+2,Jaya,23,20000,admin 
+3,Maya,23,25000,sales 
+4,Alia,25,50000,admin 
+5,David,23,45000,sales 
+6,Omar,30,30000,admin

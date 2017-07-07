@@ -1,0 +1,6 @@
+1,Robin,22,25000,sales 
+2,BOB,23,30000,sales 
+3,Maya,23,25000,sales 
+4,Sara,25,40000,sales 
+5,David,23,45000,sales 
+6,Maggy,22,35000,sales

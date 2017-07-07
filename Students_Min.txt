@@ -1,0 +1,8 @@
+001,Rajiv,Reddy,21,9848022337,Hyderabad,89
+002,siddarth,Battacharya,22,9848022338,Kolkata,78 
+003,Rajesh,Khanna,22,9848022339,Delhi,90 
+004,Preethi,Agarwal,21,9848022330,Pune,93 
+005,Trupthi,Mohanthy,23,9848022336,Bhuwaneshwar,75 
+006,Archana,Mishra,23,9848022335,Chennai,87 
+007,Komal,Nayak,24,9848022334,trivendram,83 
+008,Bharathi,Nambiayar,24,9848022333,Chennai,72
